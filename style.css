@@ -75,6 +75,10 @@
     margin-bottom: 10px;
   }
   
+hr.custom {
+  border: 1px solid #4B735D;
+}
+
   @media only screen and (min-width : 285px) and (max-width : 768px) {
   .container{
       width:100%;
